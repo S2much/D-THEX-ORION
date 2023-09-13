@@ -1,23 +1,9 @@
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>D-THEXIUM: Blockchain Technology in the Chemical Industry</title>
-    <style>
-        .logo {
-            display: inline-block;
-            vertical-align: middle;
-            margin-right: 10px;
-        }
-        .title {
-            display: inline-block;
-            vertical-align: middle;
-            font-size: 24px;
-            font-weight: bold;
-        }
-    </style>
+     <link>https://github.com/S2much/D-THEX-ORION/commit/56c1744997db47741362df74d1c4f606833aa7f2</link>
 </head>
 <body>
-    <img src="[logo.png]" alt="(https://github.com/S2much/D-THEX-ORION/commit/56c1744997db47741362df74d1c4f606833aa7f2)" class="logo">
+    <img src="logo.png" alt="D-THEXIUM logo" class="logo">
     <h1 class="title">D-THEXIUM: Blockchain Technology in the Chemical Industry</h1>
     <p>Blockchain technology, most commonly associated with cryptocurrencies, has gained significant attention in recent years. However, its potential extends far beyond finance. The chemical industry, with its complex supply chains and stringent regulatory requirements, stands to benefit greatly from blockchain implementation. This article explores the challenges faced by the chemical industry and how blockchain technology can provide innovative solutions.</p>
     <h2>Challenges in the Chemical Industry</h2>
