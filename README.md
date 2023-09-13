@@ -1,4 +1,4 @@
-# ![D-THEXIUM Logo](logo.png) D-THEXIUM: Blockchain Technology in the Chemical Industry
+# ![D-THEXIUM Logo](logo.png)D-THEXIUM: Blockchain Technology in the Chemical Industry
 
 
 D-THEXIUM is a revolutionary machine-learning application/program that integrates blockchain technology with AI capabilities to address the challenges faced by the chemical industry. By leveraging a decentralized and tamper-proof ledger, smart contracts, and AI-driven data analysis, D-THEXIUM provides enhanced data integrity, security, and efficiency.
