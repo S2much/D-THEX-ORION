@@ -15,7 +15,7 @@ Follow these step-by-step instructions to install D-THEXIUM:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPT License](https://github.com/S2much/D-THEX-ORION/blob/main/LICENSE).
 
 ## About
 
